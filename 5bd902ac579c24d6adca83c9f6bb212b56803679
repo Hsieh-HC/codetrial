@@ -11,7 +11,10 @@
   "coverage_complete": true,
   "unmeasured_commits": [],
   "required": true,
-  "status": "pending",
+  "status": "complete",
+  "diff_hash": "dd50a0379c6c9a58bafa9e4061c2136202e694948036880edcee039e924a4bd6",
+  "answer_digest": "8d9f386caad0f8fdacd1948a8ec78a16ac6520c0d142b6ba422688f821c14de3",
+  "review_fingerprint": "f76ec5c70fd269e184c2ce761ddd120687be5e07423a3ea2272ed65d68128dec",
   "schema_version": 1,
   "change_id": "I8c4875b8a0ed5c5a4424d7fe759eca16190b97ca",
   "workbench_started": true
