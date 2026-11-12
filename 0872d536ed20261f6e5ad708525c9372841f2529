@@ -11,13 +11,8 @@
   "coverage_complete": true,
   "unmeasured_commits": [],
   "required": true,
-  "status": "complete",
-  "diff_hash": "d9f07f39fdc0dff90564dceee8b45aae16a186dc9242761611d49240f4ff8175",
-  "answer_digest": "3991cd7cbb150c21d8284b211784f8fbebce081d08f80aa27ab494412c5d50bd",
-  "review_fingerprint": "b39ee3de43f28878e57296612238b08afe5ed0c466c3920bf23189fe2221e99a",
+  "status": "pending",
   "schema_version": 1,
   "change_id": "I98588bdb6fa0b7aaded94ee4ad484ca64f2b1f54",
-  "workbench_started": true,
-  "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgFladDAxIAi8gCmPufap+TdgjX2\nYO2ZN6/CJTcxwZfr4AAAAQY29kZXRyaWFsLXJldmlldwAAAAAAAAAGc2hhNTEyAAAAUwAA\nAAtzc2gtZWQyNTUxOQAAAEDG4vxLHQ08w97KJqCJSd6uUvB0sqNzTUbMb7VcNyWYx7WgBB\nDp/HeWSiUHUtv5+3JFWqbFraJzcGZOIo9vQKcH\n-----END SSH SIGNATURE-----\n",
-  "key_fingerprint": "SHA256:w+2Ns9DCvtW/c5Th9p5QPM7jRd5/+k4GLpAFZ3MvJWM"
+  "workbench_started": true
 }
